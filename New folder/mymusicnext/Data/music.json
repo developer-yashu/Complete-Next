@@ -1,0 +1,103 @@
+{"courses": [
+  {
+    "id": 1,
+    "title": "Guitar Fundamentals",
+    "slug": "guitar-fundamentals",
+    "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+    "price": 99.99,
+    "instructor": "John Doe",
+    "isFeatured": true,
+    "image": "/courses/guitar.jpg"
+  },
+  {
+    "id": 2,
+    "title": "React for Beginners",
+    "slug": "react-for-beginners",
+    "description": "Learn React from scratch and build modern interactive web applications.",
+    "price": 149.99,
+    "instructor": "Sarah Johnson",
+    "isFeatured": true,
+    "image": "/courses/react.jpg"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Mastery",
+    "slug": "javascript-mastery",
+    "description": "Master JavaScript fundamentals and advanced concepts with practical examples.",
+    "price": 129.99,
+    "instructor": "Michael Smith",
+    "isFeatured": false,
+    "image": "/courses/javascript.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Next.js Complete Course",
+    "slug": "nextjs-complete-course",
+    "description": "Build fast and scalable web applications using Next.js and React.",
+    "price": 179.99,
+    "instructor": "David Wilson",
+    "isFeatured": true,
+    "image": "/courses/nextjs.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Node.js Backend Development",
+    "slug": "nodejs-backend-development",
+    "description": "Learn how to create powerful backend applications and REST APIs using Node.js.",
+    "price": 159.99,
+    "instructor": "Robert Brown",
+    "isFeatured": false,
+    "image": "/courses/nodejs.jpg"
+  },
+  {
+    "id": 6,
+    "title": "MongoDB for Developers",
+    "slug": "mongodb-for-developers",
+    "description": "Learn MongoDB database concepts and how to work with data in modern applications.",
+    "price": 109.99,
+    "instructor": "Emily Davis",
+    "isFeatured": false,
+    "image": "/courses/mongodb.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Tailwind CSS Masterclass",
+    "slug": "tailwind-css-masterclass",
+    "description": "Create beautiful and responsive websites quickly using Tailwind CSS.",
+    "price": 89.99,
+    "instructor": "James Anderson",
+    "isFeatured": true,
+    "image": "/courses/tailwind.jpg"
+  },
+  {
+    "id": 8,
+    "title": "HTML and CSS Fundamentals",
+    "slug": "html-css-fundamentals",
+    "description": "Learn HTML and CSS from basics and create responsive web pages.",
+    "price": 79.99,
+    "instructor": "Daniel Miller",
+    "isFeatured": false,
+    "image": "/courses/html-css.jpg"
+  },
+  {
+    "id": 9,
+    "title": "MERN Stack Development",
+    "slug": "mern-stack-development",
+    "description": "Learn MongoDB, Express, React and Node.js by building real-world projects.",
+    "price": 199.99,
+    "instructor": "Alex Martin",
+    "isFeatured": true,
+    "image": "/courses/mern.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Git and GitHub for Developers",
+    "slug": "git-github-for-developers",
+    "description": "Learn Git and GitHub to manage your code and collaborate with other developers.",
+    "price": 69.99,
+    "instructor": "Chris Taylor",
+    "isFeatured": false,
+    "image": "/courses/git-github.jpg"
+  }
+]
+}
